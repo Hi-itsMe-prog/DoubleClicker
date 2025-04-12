@@ -97,7 +97,6 @@ public class MainActivity extends AppCompatActivity {
         Counters();
     }
 
-    // Обработчик для второй кнопки
     public void Button2(View view) {
         count2++;
         Counters();
